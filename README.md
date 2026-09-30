@@ -1,5 +1,8 @@
 # Proof of Synergy
 
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/c298a1aa-ff46-4595-a1b5-d5f4949916b4" />
+
+
 An AI communication gym. Practice real conversations by voice, get live coaching, and build a skill graph that persists across sessions. Includes a resume-based technical interview mode.
 
 ## Stack
